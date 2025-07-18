@@ -9,10 +9,16 @@ This project focuses on analyzing a dataset of Amazon products to uncover patter
 The primary goal is to explore how different factors influence product performance across various categories. Key questions include:
 
  How do average ratings and review counts vary by category?
- Is there a correlation between discount percentage and customer ratings or review volume?
- Which categories exhibit the highest engagement or customer satisfaction?
- What product characteristics are most associated with high performance?
+ - Is there a correlation between discount percentage and customer ratings or review volume?
+ - Which categories exhibit the highest engagement or customer satisfaction?
+ - What product characteristics are most associated with high performance?
 
 Through data cleaning, visualization, and exploratory data analysis (EDA), the project aims to provide actionable insights into consumer behavior and market trends on Amazon. The findings can help optimize product listings, pricing strategies, and promotional efforts for e-commerce success.
+
+### Data Source
+The primary source of Data used here is Amazon case study.xlsx and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED Or any other data respository site.
+
+### Tools used
+- Ms Excel for Data cleaning and for creating a report [Download Here](https://www.microsoft.com)
 
 
