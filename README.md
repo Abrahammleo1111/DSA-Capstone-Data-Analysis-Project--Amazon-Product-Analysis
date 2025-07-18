@@ -112,9 +112,22 @@ This is where functions used for the data analysis are included:
 ```
 
 ### Analysis
+[Amazon 101](https://github.com/user-attachments/assets/90ef951f-d8b3-4457-bf9c-c392ac8968c9)
+[Amazon102](https://github.com/user-attachments/assets/d5d98529-7e31-4078-bfeb-b98265d63c1b)
+ 
 
 
-<img width="670" height="306" alt="Amazon 101" src="https://github.com/user-attachments/assets/842815b4-0a16-456b-bc28-9cf9fb6ad166" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
