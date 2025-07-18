@@ -104,7 +104,7 @@ This EDA provided valuable insights into customer behavior, product popularity, 
 
 ### Data Analysis
 
-This is where functions used for the data analysis are included
+This is where functions used for the data analysis are included:
 
 ``` Excel
 =IF(A2=1,"91-100%",INT(A2*100/10)*10 & "-" & (INT(A2*100/10)*10 + 10) & "%")
