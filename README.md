@@ -114,6 +114,9 @@ This is where functions used for the data analysis are included:
 ### Analysis
 
 
+<img width="670" height="306" alt="Amazon 101" src="https://github.com/user-attachments/assets/842815b4-0a16-456b-bc28-9cf9fb6ad166" />
+
+
 
 
 
